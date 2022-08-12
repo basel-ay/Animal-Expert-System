@@ -4,6 +4,8 @@
 
 One of the important concepts in Symbolic AI is knowledge. It is important to differentiate knowledge from information or data. For example, one can say that books contain knowledge, because one can study books and become an expert. However, what books contain is actually called data, and by reading books and integrating this data into our world model we convert this data to knowledge.
 
+![image](https://user-images.githubusercontent.com/64821137/184442022-4408d7dc-1e1a-4922-8c0b-ba3b2bcef7ff.png)
+
 Most often, we do not strictly define knowledge, but we align it with other related concepts using DIKW Pyramid. It contains the following concepts:
 
 * `Data` is something represented in physical media, such as written text or spoken words.Data exists independently of human beings and can be passed between people.
@@ -14,7 +16,6 @@ Most often, we do not strictly define knowledge, but we align it with other rela
 
 * `Wisdom` is yet one more level of our understanding of the world, and it represents meta-knowledge, eg. some notion on how and when the knowledge should be used.
 
-![image](https://user-images.githubusercontent.com/64821137/184442022-4408d7dc-1e1a-4922-8c0b-ba3b2bcef7ff.png)
 
 ## Expert Systems
 
